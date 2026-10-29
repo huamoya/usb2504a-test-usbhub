@@ -5,8 +5,8 @@
 ## 特点
 
 - 芯片：USB2504A，每个下游口独立 TT，多设备并发稳定
-- PCB 尺寸：34.5 × 41 mm，小巧
-- 所有元件均使用 0603 / 1206 / 直插封装，PCB 直接丝印元件参数，手工焊接友好
+- PCB 尺寸：34.5 × 41 mm，尺寸小巧
+- 所有元件均使用 0603 / 1206 / 直插封装，PCB 直接丝印元件参数，更适合手工焊接
 - 带有简易的过流保护
 - 所有端口均已做差分线等长
 - 上游口：可焊 Type-C 座，也可直接焊数据线
@@ -15,7 +15,7 @@
 
 ## 打开工程
 
-使用 **嘉立创 EDA** 打开项目文件 `usb2504a-test.eprj2`。
+使用 **嘉立创 EDA 专业版** 打开项目文件 `usb2504a-test.eprj2`。
 
 ## 说明
 
@@ -45,7 +45,7 @@ A USB 2.0 hub based on the USB2504A. Each downstream port has its own Transactio
 
 ## Opening the Project
 
-Open `usb2504a-test.eprj2` with **LCEDA (JLCEDA)**.
+Open `usb2504a-test.eprj2` with **LCEDA PRO (JLCEDA PRO)**.
 
 ## Notes
 
